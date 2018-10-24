@@ -1,0 +1,36 @@
+.main-content{
+    text-align: center;
+    width: 75%;
+    margin: auto;
+    margin-top: 5.417em;
+}
+
+.modules{
+    background-color: #e60012;
+    width: 75%;
+    margin: auto;
+    padding-bottom: 4.167em;
+}
+
+.modules a{
+    color: white;
+    display: block;
+    font-size: 1.5em;
+}
+
+
+.square{
+    margin: auto;
+    height: 20.833em;
+    width: 20.833em;
+
+}
+
+.rectangle{
+    margin: auto;
+    height: 16.667em;
+    width: 22em;
+}
+
+/*    background-color: #a30303;*/
+/*        overflow:hidden;*/

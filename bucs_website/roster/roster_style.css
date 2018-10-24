@@ -1,0 +1,50 @@
+th{
+    color: #e60012;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+td{
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.667em;
+    border: .25em solid #e60012;
+}
+
+table{
+    border-collapse: collapse;
+    width: 75%; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.photo{
+    float: left;
+}
+
+.photo img{
+    width: 20.833em;
+    height: 20.833em;
+    padding: 3em;
+    padding-bottom: 1em;
+}
+
+.photo h2{
+    padding-left: 4.5em;
+    color:white;
+}
+
+
+/*
+.column{
+    flex: 33.33%;
+    padding: .417em;
+    width: 20.833em;
+    height: 20.833em;
+}
+
+.row{
+  display: flex;
+}
+*/
+
